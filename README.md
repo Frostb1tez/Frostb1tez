@@ -25,7 +25,7 @@ I'm a passionate software engineer with expertise in TypeScript and JavaScript. 
 
 ## Get in Touch
 
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/methawee-purahong-7596bb1a7)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/methawee-purahong-7596bb1a7)
 - **Email:** bhite2000@hotmail.com
 
 Feel free to reach out if you have any questions, collaboration opportunities, or just want to connect. I'm always eager to learn and grow as a developer!

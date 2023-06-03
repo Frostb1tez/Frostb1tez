@@ -15,7 +15,9 @@ I'm a passionate software engineer with expertise in TypeScript and JavaScript. 
 - **Company Name:** RentSpree
   - **Role:** Software Engineer
   - **Duration:** 06/22 - 06/23
-  - **Responsibilities:** Mention your key responsibilities and achievements.
+  - **Responsibilities:** 
+      - Developed new features using React.js, Redux, Next.js, and Nest.js, ensuring high-quality code and adherence to best practices.
+      - Served as an Epic Leader for the technical track, leading the effort to refactor a service to adhere to Domain-Driven Design principles and Clean Architecture.
 
 ## Education
 

@@ -14,7 +14,7 @@ I'm a passionate software engineer with expertise in TypeScript and JavaScript. 
 
 - **Company Name:** RentSpree
   - **Role:** Software Engineer
-  - **Duration:** 06/22 - Present
+  - **Duration:** 06/22 - 06/23
   - **Responsibilities:** Mention your key responsibilities and achievements.
 
 ## Education

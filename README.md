@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Methawee Purahong (:flag_th:)
+# Hi there! 👋 I'm Methawee Purahong  🇹🇭
 
 I'm a passionate software engineer with expertise in TypeScript and JavaScript. I have a strong understanding of domain-driven design and clean architecture principles, which allows me to build scalable and maintainable applications. I enjoy solving complex problems and constantly expanding my knowledge in the ever-evolving world of software development.
 
